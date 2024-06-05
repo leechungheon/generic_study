@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e496cf5b-e7f0-4d82-a668-321b3afe1618" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genericncollection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimplePair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimplePairTest.java" afterDir="false" />
+    <list default="true" id="e496cf5b-e7f0-4d82-a668-321b3afe1618" name="변경" comment="fd">
+      <change afterPath="$PROJECT_DIR$/src/GenericMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayAlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayAlgTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayAlg_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderedTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2hSGhP25q1M71kHMp4uE8xBGKgm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,12 +51,14 @@
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.GenericMethodTest.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
         <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
       </set>
     </attachedChunks>
@@ -71,11 +71,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717580186701</updated>
-      <workItem from="1717580188342" duration="713000" />
+      <workItem from="1717580188342" duration="1072000" />
+      <workItem from="1717581305434" duration="1248000" />
     </task>
+    <task id="LOCAL-00001" summary="fd">
+      <option name="closed" value="true" />
+      <created>1717581165364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717581165364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fd" />
+    <option name="LAST_COMMIT_MESSAGE" value="fd" />
   </component>
 </project>
